@@ -25,4 +25,5 @@ dependencies {
 
   testCompile "org.robolectric:robolectric:2.4"
   testCompile "junit:junit:4.11"
+  testCompile "au.com.dius:pact-jvm-consumer-junit_2.11:2.1.12"
 }
